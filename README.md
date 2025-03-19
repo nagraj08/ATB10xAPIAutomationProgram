@@ -1,3 +1,4 @@
+
 Selenium Automation Framework(with Java)
 
 - Author - Pramod Dutta
@@ -19,3 +20,6 @@ Selenium Automation Framework(with Java)
 `mvn test -Dsurefire.suiteXmlFiles=testng.xml`
 
  <img width="1215" alt="Screenshot 2023-10-31 at 12 27 28 PM" src="https://github.com/PramodDutta/AdvanceSeleniumFrameworkTTA/assets/1409610/b0905741-d88d-4559-93c2-65433e668170">
+=======
+# ATB10xAPIAutomationProgram
+
