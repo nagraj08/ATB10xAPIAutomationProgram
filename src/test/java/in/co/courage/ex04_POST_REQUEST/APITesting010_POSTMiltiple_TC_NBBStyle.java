@@ -1,4 +1,4 @@
-package in.co.courage.ex03_GET_REQUEST;
+package in.co.courage.ex04_POST_REQUEST;
 
 import io.qameta.allure.Description;
 import io.restassured.RestAssured;
@@ -6,8 +6,6 @@ import io.restassured.response.Response;
 import io.restassured.response.ValidatableResponse;
 import io.restassured.specification.RequestSpecification;
 import org.testng.annotations.Test;
-
-import java.awt.geom.RectangularShape;
 
 public class APITesting010_POSTMiltiple_TC_NBBStyle {
     RequestSpecification r;

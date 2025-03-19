@@ -3,7 +3,7 @@
 <suite name="Suite1" verbose="1">
     <test name="ATB10XAPIAutomationProgram">
         <classes>
-            <class name="in.co.courage.ex03_GET_REQUEST.APITesting010_POSTMiltiple_TC_NBBStyle"></class>
+            <class name="in.co.courage.ex04_POST_REQUEST.APITesting010_POSTMiltiple_TC_NBBStyle"></class>
         </classes>
     </test>
 </suite>
